@@ -1,2 +1,14 @@
 # worldcup-mhub-journal
-HTML page archive and documentation
+
+发布页面归档目录
+
+这里作为静态内容目录，保存自动化生成的页面。
+
+## 文件记录
+
+- 根目录中的 HTML 文件为发布结果
+- README 用于说明当前仓库用途
+
+## 页面说明
+
+每个 HTML 文件都是独立页面，具体内容请打开对应文件查看。
